@@ -8,6 +8,7 @@ npm install
 
 cd android && ./gradlew clean && cd .. && npx react-native run-android
 or
+#
 cd ios && pod install && cd ..
 open ios folder
 double click counterCard.xworkspace
